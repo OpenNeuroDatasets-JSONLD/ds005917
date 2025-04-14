@@ -1,0 +1,36 @@
+{
+    "SpectrometerFrequency": [
+        297.205417
+    ],
+    "ResonantNucleus": [
+        "1H"
+    ],
+    "dim_5": "DIM_COIL",
+    "dim_6": "DIM_DYN",
+    "EchoTime": 0.06899999999999999,
+    "RepetitionTime": 2.5,
+    "ExcitationFlipAngle": 90.0,
+    "TxOffset": -2.2,
+    "Manufacturer": "SIEMENS",
+    "SoftwareVersions": "syngo MR B17",
+    "RxCoil": "\"32Ch_Head_7T\"",
+    "SequenceName": "press",
+    "ProtocolName": "press",
+    "PatientPosition": "HFS",
+    "ConversionMethod": "spec2nii v0.8.5",
+    "ConversionTime": "2025-02-19T13:44:11.751",
+    "kSpace": [
+        false,
+        false,
+        false
+    ],
+    "SpectralWidth": 4000.0,
+    "PulseSequenceFile": {
+        "Value": "%CustomerSeq%/an\\press",
+        "Description": "Sequence binary path."
+    },
+    "IceProgramFile": {
+        "Value": "%SiemensIceProgs%\\IcePrgSpectroscopy",
+        "Description": "Reconstruction binary path."
+    }
+}
