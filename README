@@ -26,6 +26,9 @@ Scans are normally done at baseline (b0) (about 2 days before) and then 2-3 (d2/
   - T2-weighted: 3 runs (baseline session only)
 - Diffusion-Weighted Imaging (DWI): 2 runs (baseline session only)
   - 30 directions, bval: 1100 s/mm^2, acquired in two groups (g1/g2)
+
+-Magnetic Resonance Spectroscopy (MRS): (nominally all sessions for participants after)
+
 - Functional runs per session:
   - Resting state: 1 run, 8 min, eyes closed, physio was collected during this run only (for most of the data)
 
