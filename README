@@ -27,11 +27,15 @@ Scans are normally done at baseline (b0) (about 2 days before) and then 2-3 (d2/
 - Diffusion-Weighted Imaging (DWI): 2 runs (baseline session only)
   - 30 directions, bval: 1100 s/mm^2, acquired in two groups (g1/g2)
 
--Magnetic Resonance Spectroscopy (MRS): (nominally all sessions for participants after 115/306)
-    - 2cm isotropic voxel centered on the perigenual ACC, TE-optimized PRESS sequence at 7T optimized to measure glumate
-
 - Functional runs per session:
   - Resting state: 1 run, 8 min, eyes closed, physio was collected during this run only (for most of the data)
+
+#Magnetic Resonance Spectroscopy (MRS)
+ -nominally all sessions for participants after 115/306
+ -7T Siemens, 32ch head coil
+    - 2cm isotropic voxel centered on the perigenual ACC, TE-optimized J-suppression PRESS sequence at 7T optimized to measure glutamate
+
+
 
 #### Exceptions
 
