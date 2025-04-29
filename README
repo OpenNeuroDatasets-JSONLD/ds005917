@@ -6,9 +6,7 @@ Nominally, there are five Magnetic Resonance Imaging (MRI) scans per subject at 
 
 ## MRI Data Description
 
-### 3T GE Signa HDx, 8 channel head coil
-
-Scans are normally done at baseline (b0) (about 2 days before) and then 2-3 (d2/p2) and 10-11 (d10/p10) days after blinded infusion.
+Scans are normally performed at baseline (b0) (about 2 days before) and then 2-3 (d2/p2) and 10-11 (d10/p10) days after blinded infusion on a 3T GE Signa HDx with an 8 channel head coil unless otherwise specified.
 
 - Subjects: total N = 58
   - n, Group 1 (MDD) = 33
@@ -30,7 +28,7 @@ Scans are normally done at baseline (b0) (about 2 days before) and then 2-3 (d2/
 - Functional runs per session:
   - Resting state: 1 run, 8 min, eyes closed, physio was collected during this run only (for most of the data)
 
-#Magnetic Resonance Spectroscopy (MRS)
+#### Magnetic Resonance Spectroscopy (MRS)
  -nominally all sessions for participants after 115/306
  -7T Siemens, 32ch head coil
     - 2cm isotropic voxel centered on the perigenual ACC, TE-optimized J-suppression PRESS sequence at 7T optimized to measure glutamate
