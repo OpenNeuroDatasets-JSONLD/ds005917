@@ -1,0 +1,57 @@
+onset	duration	trial_type
+20.013	n/a	Instructions
+25.102	3.25	Emotion Positive Up
+25.102	n/a	Block
+28.439	3.25	Emotion Negative Down
+31.731	3.25	Emotion Negative Down
+35.065	3.25	Emotion Positive Up
+38.366	3.25	Emotion Positive Down
+41.696	3.25	Emotion Positive Down
+45.029	3.25	Emotion Negative Up
+48.354	3.25	Emotion Positive Down
+51.69	3.25	Emotion Negative Up
+55.019	3.25	Emotion Positive Down
+58.355	3.25	Emotion Negative Down
+61.693	3.25	Emotion Negative Up
+65.026	3.25	Emotion Positive Down
+68.358	3.25	Emotion Positive Up
+71.689	3.25	Emotion Negative Down
+75.02	3.25	Emotion Positive Up
+78.326	3.25	Emotion Negative Up
+81.669	3.25	Emotion Negative Down
+85.003	3.25	Emotion Positive Up
+88.342	3.25	Emotion Negative Up
+91.676	3.25	Emotion Negative Down
+95.008	3.25	Emotion Negative Down
+98.353	3.25	Emotion Positive Up
+101.609	3.25	Emotion Negative Up
+104.929	3.25	Emotion Positive Down
+108.273	3.25	Emotion Positive Down
+111.621	3.25	Emotion Positive Down
+114.953	3.25	Emotion Negative Up
+118.28	3.25	Emotion Negative Up
+121.536	3.25	Emotion Positive Down
+124.792	3.25	Emotion Negative Up
+128.128	3.25	Emotion Negative Down
+131.446	3.25	Emotion Positive Down
+154.708	n/a	Instructions
+159.782	n/a	Block
+159.782	3.25	Gender Negative Down
+163.12	3.25	Gender Negative Down
+166.465	3.25	Gender Positive Down
+169.801	3.25	Gender Negative Up
+173.136	3.25	Gender Positive Down
+176.498	3.25	Gender Negative Up
+179.829	3.25	Gender Negative Down
+183.157	3.25	Gender Negative Up
+186.443	3.25	Gender Negative Down
+189.786	3.25	Gender Positive Down
+193.121	3.25	Gender Positive Down
+196.456	3.25	Gender Negative Up
+199.799	3.25	Gender Positive Up
+203.141	3.25	Gender Negative Up
+206.461	3.25	Gender Positive Up
+209.797	3.25	Gender Positive Up
+213.135	3.25	Gender Negative Down
+216.442	3.25	Gender Positive Down
+219.783	3.25	Gender Positive Down

@@ -2,7 +2,7 @@
 
 The study was completed at the National Institute of Mental Health (NIMH) Intramural Research Program (IRP)  (ID: 04-M-0222) within the within the Experimental Therapeutics and Pathophysiology Branch.  It is a double-blind placebo cross-over trial of a single infusion of ketamine or saline placebo which included both patients and healthy volunteers. Patients with major depressive disorder (MDD) were medication-free for at least 2 weeks prior to the start of the study. Recruitment for the bipolar (BP) group was ended early on, but is included here for completeness. Some measurements (tasks/scans/scales) were added part-way into the study and have fewer completed measurements.
 
-Nominally, there are five Magnetic Resonance Imaging (MRI) scans per subject at both 3 Tesla with the details listed below. Note that not all planned scans were completed: some participants dropped out of the trial, some people did not want to have an MRI (infrequent), and sometimes there were technical issues. 
+Nominally, there are five Magnetic Resonance Imaging (MRI) scans per subject at both 3 Tesla with the details listed below. Note that not all planned scans were completed: some participants dropped out of the trial, some people did not want to have an MRI (infrequent), and sometimes there were technical issues.
 
 ## MRI Data Description
 
@@ -29,12 +29,11 @@ Scans are normally performed at baseline (b0) (about 2 days before) and then 2-3
   - Resting state: 1 run, 8 min, eyes closed, physio was collected during this run only (for most of the data)
 
 - Magnetic Resonance Spectroscopy (MRS)
-  - nominally all sessions for participants after 115/306
+  - nominally all sessions for participants after sub-MOA115/sub-MOA306
   - 7T Siemens, 32ch head coil
   - 2cm isotropic voxel centered on the perigenual ACC, TE-optimized J-suppression PRESS sequence at 7T optimized to measure glutamate
 
-
-#### Exceptions
+### Exceptions
 
 1. The anatomical data of `sub-MOA133/ses-b0` came from an excluded scan two weeks earlier in order to have anatomical data to go along with the functional data.
 
