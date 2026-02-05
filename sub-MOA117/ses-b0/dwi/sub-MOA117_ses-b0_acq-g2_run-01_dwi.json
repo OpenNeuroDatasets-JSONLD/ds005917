@@ -44,5 +44,6 @@
     ],
     "InPlanePhaseEncodingDirectionDICOM": "COL",
     "ConversionSoftware": "dcm2niix",
-    "ConversionSoftwareVersion": "v1.0.20180622 GCC4.3.2"
+    "ConversionSoftwareVersion": "v1.0.20180622 GCC4.3.2",
+    "MultipartID": "dwi_1"
 }

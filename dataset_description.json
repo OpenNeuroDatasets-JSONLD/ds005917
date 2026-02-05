@@ -1,7 +1,6 @@
 {
     "Name": "NIMH Ketamine Mechanism of Action Study",
-    "BIDSVersion": "1.10.0",
-    "HEDVersion": "8.2.0",
+    "BIDSVersion": "1.11.0",
     "DatasetType": "raw",
     "License": "CC0",
     "Authors": [
@@ -22,6 +21,5 @@
     ],
     "ReferencesAndLinks": [
         "https://clinicaltrials.gov/study/NCT00088699"
-    ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds005917.v1.0.1"
+    ]
 }
