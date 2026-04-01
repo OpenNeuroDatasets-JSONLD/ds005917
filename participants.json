@@ -1,17 +1,64 @@
 {
     "participant_id": {
-        "Description": "Study participant identifier"
+        "Description": "Study participant identifier",
+        "Annotations": {
+            "IsAbout": {
+                "TermURL": "nb:ParticipantID",
+                "Label": "Participant ID"
+            },
+            "VariableType": "Identifier"
+        }
     },
     "age": {
         "Description": "Participant's age",
-        "Units": "Years"
+        "Units": "Years",
+        "Annotations": {
+            "IsAbout": {
+                "TermURL": "nb:Age",
+                "Label": "Age"
+            },
+            "VariableType": "Continuous",
+            "Format": {
+                "TermURL": "nb:FromFloat",
+                "Label": "float"
+            },
+            "MissingValues": [
+                "n/a",
+                "N/A",
+                "na",
+                "NA",
+                "nan",
+                "NaN",
+                ""
+            ]
+        }
     },
     "sex": {
         "Description": "Biological sex assigned at birth.",
         "Levels": {
-          "M": "Male",
-          "F": "Female",
-          "n/a": "Not available"
+            "M": "Male",
+            "F": "Female",
+            "n/a": "Not available"
+        },
+        "Annotations": {
+            "IsAbout": {
+                "TermURL": "nb:Sex",
+                "Label": "Sex"
+            },
+            "VariableType": "Categorical",
+            "Levels": {
+                "M": {
+                    "TermURL": "snomed:248153007",
+                    "Label": "Male"
+                },
+                "F": {
+                    "TermURL": "snomed:248152002",
+                    "Label": "Female"
+                }
+            },
+            "MissingValues": [
+                "n/a"
+            ]
         }
     },
     "BMI": {
